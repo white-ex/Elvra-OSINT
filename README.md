@@ -1,4 +1,4 @@
-# Elvra OSINT 🔍  
+# Elvra OSINT   
 ### Identity Intelligence & OSINT Analyzer  
 
 A lightweight **Python-based OSINT intelligence tool** for analyzing usernames, emails, phone numbers, and correlating digital identity data across multiple sources.
