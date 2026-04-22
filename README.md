@@ -4,9 +4,8 @@
 A lightweight **Python-based OSINT intelligence tool** for analyzing usernames, emails, phone numbers, and correlating digital identity data across multiple sources.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-f8c8dc?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API-a7f3d0?style=for-the-badge&logo=fastapi&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-fbcfe8?style=for-the-badge)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API-f8c8dc?style=for-the-badge&logo=fastapi&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-f8c8dc?style=for-the-badge)
 ---
 
 ## ☁️ Overview  
